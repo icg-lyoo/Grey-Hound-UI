@@ -8,10 +8,4 @@
     
     asdasd
     
-<<<<<<< HEAD
-    echo 'change to master'
-=======
-    
-    echo 'This is branced'
->>>>>>> somebranch
 ?>
